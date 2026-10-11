@@ -1,0 +1,10 @@
+# Personal discovery records and local experiments never belong in this package.
+.private/
+.local/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Contributor · 让每个人都可以成为贡献者"
+  short_description: "从个人与 AI 协作的经验出发，发现并完成值得被采纳的开源贡献"
+  default_prompt: "使用 $contributor，先归纳我获准提供的 AI 使用积累，再检索相关开源项目，推荐有证据、可验证的贡献机会。"
